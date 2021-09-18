@@ -1,0 +1,27 @@
+{
+  "name": "testpug",
+  "version": "1.0.0",
+  "description": "traning myself",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatjanaBezkorovaina/testpug.git"
+  },
+  "keywords": [
+    "studing",
+    "test",
+    "pug"
+  ],
+  "author": "TatTatjanaBezkorovaina Bezcennajabtv@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatjanaBezkorovaina/testpug/issues"
+  },
+  "homepage": "https://github.com/TatjanaBezkorovaina/testpug#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.1"
+  }
+}
