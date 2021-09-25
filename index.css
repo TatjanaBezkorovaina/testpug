@@ -2379,3 +2379,6 @@ progress {
     --bs-gutter-y: 3rem;
   }
 }
+.footer {
+  background-color: salmon;
+}
